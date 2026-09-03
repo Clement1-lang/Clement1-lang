@@ -15,7 +15,7 @@
   <a href="YOUR_GITHUB_URL">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:clementsaini1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
