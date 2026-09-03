@@ -88,7 +88,6 @@ analysis, machine learning, SQL, data visualization, and database management**.
 - Tableau
 - Matplotlib
 - Interactive Dashboards
-- Data Storytelling
 
 </td>
 </tr>
